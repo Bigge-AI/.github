@@ -14,7 +14,6 @@ Everything here is built for Bigge — its employees, its fleet, and its custome
 
 - [**bigge-os**](https://github.com/Bigge-AI/bigge-os) — Where an idea becomes shipped work. Anyone submits a problem, it gets triaged, approved ones become projects, and measured results land on **the Wall**. ~**72k** lines of TypeScript, **618** passing tests, **26** question intents, **2** agents. 🧠
 - [**workpro-mcp-monorepo**](https://github.com/Bigge-AI/workpro-mcp-monorepo) — Three MCP servers that hand an AI assistant real fleet, operations, and field-service data: **29 + 21 + 17 = 67 tools**, overwhelmingly reads, and every write labeled as one in the catalog. 🔌
-- [**agent-factory**](https://github.com/Bigge-AI/agent-factory) + [**agent-factory-solutions**](https://github.com/Bigge-AI/agent-factory-solutions) — `spec → build → eval → report`, with a human gate between every stage. The factory can only write to one repo, and it has to pass the evals to get there. 🏭
 - [**partspro**](https://github.com/Bigge-AI/partspro) — A shop mechanic types an equipment number and gets the right exploded diagram, serial breaks and all. Went from one **8.6 MB** catalog file to a **~2 KB** index. 🔧
 - [**BiggeAINewsletter**](https://github.com/Bigge-AI/BiggeAINewsletter) — The monthly brief, live at [news.bigge.ai](https://news.bigge.ai). Issue 01 shipped **14 articles** and about **52 minutes** of reading. 📰
 - [**bigge-ai-landing**](https://github.com/Bigge-AI/bigge-ai-landing) — The department's front door, plus the internal docs behind it. 🚪
